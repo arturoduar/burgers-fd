@@ -1,4 +1,4 @@
-# burgers_fd — finite-difference solutions of Burgers' equation (MATLAB)
+# burgers-eq-fd — finite-difference solutions of Burgers' equation (MATLAB)
 
 Solves the 1-D viscous/inviscid Burgers equation on a periodic domain
 
